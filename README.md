@@ -4,8 +4,8 @@ An MBA dissertation by Michael Paddon
 ## Synopsis
 Volatility is an intrinsic property of risk bearing assets and accurate
 forecasting of this variable is fundamental to effectively managing risk. There
-exists a rich literature in .this domain and many forecasting models are extant.
-Machine learning techniques have been applied successfully in this domain.
+exists a rich literature in this domain and many forecasting models are extant.
+Machine learning techniques have been applied successfully to this problem.
 In particular, neural nets have been constructed and shown to outperform
 historical, implied and autoregressive conditionally heteroscedastic volatility
 models. These neural nets solutions, however, have proven complex in
